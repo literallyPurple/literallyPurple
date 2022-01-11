@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @literallyPurple
+- 👀 I’m interested in Coding and Video Games!
+- 🌱 I’m currently learning Java(For fun) and JavaScript(For School)
+- 📫 How to reach me https://discord.gg/x3batNfn6m
